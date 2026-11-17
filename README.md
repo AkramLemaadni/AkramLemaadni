@@ -38,4 +38,3 @@ Developed and deployed a multilingual web platform with:
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/akram-lemaadni-56855625a/)
-**AkramLemaadni/AkramLemaadni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
